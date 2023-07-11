@@ -1,0 +1,54 @@
+actions:
+  actions: {}
+  bindings: []
+  name: Levon's Extraordinary Workflow
+  supportedMethod: POST
+  triggerActionId: 5b0b1ca8-0808-4388-aec7-8fa661727d3b
+  triggerType: 1
+  workflowParams:
+    - key: body
+      value: {}
+  workflowQueries:
+    - key: params
+      value: {}
+apiPb:
+  blocks: []
+  metadata:
+    description: ""
+    folder: ""
+    id: f474a727-3720-4ec7-a911-e9ef6d5e5564
+    name: Levon's Extraordinary Workflow
+    organization: 645b3a7d-4502-4251-8040-6dc952c4caa2
+    tags: {}
+    timestamps: {}
+    version: ""
+  trigger:
+    workflow:
+      options:
+        profiles: {}
+      parameters:
+        body: {}
+        query: {}
+applicationId: null
+creator: {}
+deployedCommitId: null
+folderId: null
+id: f474a727-3720-4ec7-a911-e9ef6d5e5564
+isDeployed: false
+name: Levon's Extraordinary Workflow
+organizationId: 645b3a7d-4502-4251-8040-6dc952c4caa2
+sendEmailOnFailure: true
+settings:
+  profiles:
+    deployed:
+      availableProfileIds:
+        - 51892b1a-d9db-4394-b3ab-3be5046f6e84
+        - e9740bf0-7bcb-4ac4-9315-ae39e7128eef
+      defaultProfileId: 51892b1a-d9db-4394-b3ab-3be5046f6e84
+    editor:
+      availableProfileIds:
+        - 51892b1a-d9db-4394-b3ab-3be5046f6e84
+        - e9740bf0-7bcb-4ac4-9315-ae39e7128eef
+      defaultProfileId: e9740bf0-7bcb-4ac4-9315-ae39e7128eef
+triggerType: 1
+updated: 1689113444496

@@ -1,0 +1,39 @@
+created: 2023-07-11T22:11:03.854Z
+creator:
+  id: 1467bca8-ccd7-467e-ba9e-6e3bb01f3af8
+  name: Levon Arakeylan
+deletedAt: null
+deployedCommitId: null
+folderId: null
+id: 93e8fddf-cff3-4304-bde9-16a012968ca1
+isDeployed: false
+isEditable: true
+isPublic: false
+name: Git Synced App
+organizationId: 645b3a7d-4502-4251-8040-6dc952c4caa2
+pages:
+  - id: fa8ee652-98e1-4729-9ce4-0a76a08dd823
+    isDefault: true
+settings:
+  profiles:
+    deployed:
+      availableProfileIds:
+        - 51892b1a-d9db-4394-b3ab-3be5046f6e84
+        - e9740bf0-7bcb-4ac4-9315-ae39e7128eef
+      defaultProfileId: 51892b1a-d9db-4394-b3ab-3be5046f6e84
+    editor:
+      availableProfileIds:
+        - 51892b1a-d9db-4394-b3ab-3be5046f6e84
+        - e9740bf0-7bcb-4ac4-9315-ae39e7128eef
+      defaultProfileId: e9740bf0-7bcb-4ac4-9315-ae39e7128eef
+    preview:
+      availableProfileIds:
+        - 51892b1a-d9db-4394-b3ab-3be5046f6e84
+        - e9740bf0-7bcb-4ac4-9315-ae39e7128eef
+      defaultProfileId: e9740bf0-7bcb-4ac4-9315-ae39e7128eef
+updated: 2023-07-11T22:11:18.803Z
+userPermissions:
+  - manage:applications
+  - read:applications
+  - publish:applications
+  - makePublic:applications

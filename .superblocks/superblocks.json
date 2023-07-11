@@ -1,0 +1,26 @@
+{
+  "configType": "ROOT",
+  "metadata": {
+    "cliVersion": "0.0.7",
+    "created": 1689113806018,
+    "lastUpdated": 1689113806018,
+    "remote": "https://pr-4825.superblocks.dev/"
+  },
+  "resources": {
+    "93e8fddf-cff3-4304-bde9-16a012968ca1": {
+      "lastUpdated": 1689113828410,
+      "location": "apps/git_synced_app",
+      "resourceType": "APPLICATION"
+    },
+    "979dc7b3-f4aa-459b-808f-276950a78a3a": {
+      "lastUpdated": 1689113828410,
+      "location": "backends/levon's_stunning_job",
+      "resourceType": "BACKEND"
+    },
+    "f474a727-3720-4ec7-a911-e9ef6d5e5564": {
+      "lastUpdated": 1689113828410,
+      "location": "backends/levon's_extraordinary_workflow",
+      "resourceType": "BACKEND"
+    }
+  }
+}
